@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\gonzo\\documents\\visual studio 2017\\Projects\\DummyPullTest\\DummyPullTest\\DummyPullTest.csproj",
+      "projectUniqueName": "C:\\Users\\Gonzo\\Desktop\\MinorPullTest\\DummyPullTest\\DummyPullTest.csproj",
       "projectName": "DummyPullTest",
-      "projectPath": "c:\\users\\gonzo\\documents\\visual studio 2017\\Projects\\DummyPullTest\\DummyPullTest\\DummyPullTest.csproj",
+      "projectPath": "C:\\Users\\Gonzo\\Desktop\\MinorPullTest\\DummyPullTest\\DummyPullTest.csproj",
       "packagesPath": "C:\\Users\\Gonzo\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\gonzo\\documents\\visual studio 2017\\Projects\\DummyPullTest\\DummyPullTest\\obj\\",
+      "outputPath": "C:\\Users\\Gonzo\\Desktop\\MinorPullTest\\DummyPullTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gonzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
